@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsamir010" alt="ahmedsamir010" /></a> </p>
+- 🌱 I’m currently learning **Front End Development**
+
+- 📫 How to reach me **ahmedsamirsakr50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
