@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir Sakr</h1>
 <h3 align="center">🚀 Software Engineer | Full-Stack .NET & Angular Developer</h3>
-<h4 align="center">2 Years Experience in Building Scalable Web Apps</h4>
+<h4 align="center">Software Engineer with 2+ years of experience building scalable, high-performance web applications</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedsamir010&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
@@ -11,11 +11,11 @@
 ### 👨‍💻 About Me
 <img align="right" src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Right_Side.gif" width="32%">
 
-- 💻 Full-Stack Developer specializing in **.NET + Angular**
+- 💻 Full-Stack Developer specialized in **.NET + Angular**
 - 🧠 Strong experience in **Clean Architecture, CQRS, REST APIs**
 - ⚙️ Skilled in **SQL Server, EF Core, Identity, SignalR**
-- 🚀 Worked on multiple **Live Production Projects**
-- 🌱 Always learning — System Design, Cloud, Performance Optimization
+- 🧩 Worked on multiple **Real Live Production Projects**
+- 🌱 Passionate about System Design, Cloud & Performance Optimization
 - 💼 Open to Software Engineering opportunities
 - 📄 My **[Resume](https://drive.google.com/drive/folders/1xbjObFo7W2KFexsCxSR2CayKa88z7JLW)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/ahmed-samir-sakr-/)**
@@ -34,7 +34,7 @@
 
 ### ⚙️ Tech Stack
 
-#### Backend
+#### 🔧 Backend
 <p>
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -44,21 +44,20 @@
   <img src="https://img.shields.io/badge/SignalR-5A2D82?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-#### Frontend
+#### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PrimeNG-0E82D4?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular%20Material-1976D2?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PrimeNG-0E82D4?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-#### Dev Tools
+#### 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -81,9 +80,18 @@
 
 ---
 
-### 💡 Quote 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ahmedsamir010/ahmedsamir010/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+
+### 💡 Quote
 > *"Great software isn’t luck — it's engineered."*
 
 ---
 
-⭐ If you like my work, don't forget to star ⭐ my repositories!
+<p align="center">
+⭐ If you find my work useful, consider giving a star — it motivates me! ⭐
+</p>
