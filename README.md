@@ -80,13 +80,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/ahmedsamir010/ahmedsamir010/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
----
-
 ### 💡 Quote
 > *"Great software isn’t luck — it's engineered."*
 
