@@ -17,7 +17,7 @@
 - 🧩 Worked on multiple **Real Live Production Projects**
 - 🌱 Passionate about System Design, Cloud & Performance Optimization
 - 💼 Open to Software Engineering opportunities
-- 📄 My **[Resume](https://drive.google.com/drive/folders/1xbjObFo7W2KFexsCxSR2CayKa88z7JLW)**
+- 📄 My **[Resume](https://drive.google.com/file/d/1dp-b_hNnh9tPMFHJWn_AAogIBleHTaVY/view?usp=sharing)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/ahmed-samir-sakr-/)**
 
 ---
