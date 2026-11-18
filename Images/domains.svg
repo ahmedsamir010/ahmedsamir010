@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <style>
+      .f { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+      @keyframes in { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: translateY(0) } }
+      @keyframes shine { 0% { transform: translateX(-300px) } 60%,100% { transform: translateX(600px) } }
+      .c { opacity: 0; animation: in .7s ease-out forwards; }
+      .c1 { animation-delay: .05s } .c2 { animation-delay: .2s } .c3 { animation-delay: .35s }
+      .c4 { animation-delay: .5s } .c5 { animation-delay: .65s } .c6 { animation-delay: .8s }
+      .s { animation: shine 6s ease-in-out infinite; }
+    </style>
+    <linearGradient id="sh" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="k"><rect width="384" height="136" rx="18"/></clipPath>
+  </defs>
+
+  <!-- card template: 384x136, gaps 24 -->
+  <g class="f">
+    <g transform="translate(0 0)"><g class="c c1">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#22C55E" fill-opacity="0.14"/>
+      <path d="M36 54l7-8 6 5 9-11" stroke="#4ADE80" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">FinTech</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">Payments, money flows &amp; financial logic</text>
+    </g></g>
+
+    <g transform="translate(408 0)"><g class="c c2">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#60A5FA" fill-opacity="0.14"/>
+      <circle cx="46" cy="46" r="11" stroke="#60A5FA" stroke-width="3" fill="none"/>
+      <path d="M46 46V35M46 46l9 5" stroke="#60A5FA" stroke-width="3" stroke-linecap="round"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">Equity &amp; Shareholders</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">Share registries, ownership &amp; investors</text>
+    </g></g>
+
+    <g transform="translate(816 0)"><g class="c c3">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#F59E0B" fill-opacity="0.14"/>
+      <path d="M34 56h24M37 56V42M46 56V42M55 56V42M33 40l13-7 13 7z" stroke="#FBBF24" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">Corporate Governance</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">Board meetings, resolutions &amp; minutes</text>
+    </g></g>
+
+    <g transform="translate(0 160)"><g class="c c4">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#F472B6" fill-opacity="0.14"/>
+      <path d="M46 33v24M38 57h16M34 40h24M34 40l-4 9a4 4 0 008 0zM58 40l-4 9a4 4 0 008 0z" stroke="#F472B6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">LegalTech</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">Digital legal &amp; advisory services</text>
+    </g></g>
+
+    <g transform="translate(408 160)"><g class="c c5">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#A78BFA" fill-opacity="0.16"/>
+      <path d="M46 32l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#C4B5FD"/>
+      <circle cx="58" cy="56" r="2.5" fill="#C4B5FD"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">AI Integrations</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">LLMs &amp; smart automation in real products</text>
+    </g></g>
+
+    <g transform="translate(816 160)"><g class="c c6">
+      <g clip-path="url(#k)"><rect width="384" height="136" fill="#0B1023"/><rect class="s" width="200" height="136" fill="url(#sh)"/></g>
+      <rect x="0.5" y="0.5" width="383" height="135" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="#22D3EE" fill-opacity="0.14"/>
+      <path d="M34 36h24v8H34zM34 48h24v8H34z" stroke="#22D3EE" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+      <text x="24" y="98" font-size="20" font-weight="700" fill="#F1F5F9">Business Platforms</text>
+      <text x="24" y="120" font-size="14" fill="#94A3B8">ERP, dashboards &amp; real-time systems</text>
+    </g></g>
+  </g>
+</svg>
