@@ -61,17 +61,15 @@
     <text x="60" y="160" class="f r2" font-size="68" font-weight="800" fill="url(#name)" letter-spacing="-2">Ahmed Samir</text>
     <text x="60" y="232" class="f r2" font-size="68" font-weight="800" fill="url(#name)" letter-spacing="-2">Sakr<tspan fill="#8B5CF6">.</tspan></text>
 
-    <text x="64" y="278" class="f r3" font-size="20" fill="#CBD5E1">I design systems — then I ship them.</text>
-
-    <text x="64" y="316" class="m r4" font-size="14" fill="#64748B">
+    <text x="64" y="284" class="m r3" font-size="14" fill="#64748B">
       <tspan fill="#A78BFA">.NET</tspan> · <tspan fill="#A78BFA">Node.js</tspan> · <tspan fill="#60A5FA">Angular</tspan> · <tspan fill="#60A5FA">React</tspan> · <tspan fill="#60A5FA">React Native</tspan>
     </text>
 
-    <g class="r5 m" font-size="13">
-      <rect x="64" y="340" width="122" height="28" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/>
-      <text x="78" y="359" fill="#4ADE80">✓ unit tests</text>
-      <rect x="196" y="340" width="168" height="28" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/>
-      <text x="210" y="359" fill="#4ADE80">✓ integration tests</text>
+    <g class="r4 m" font-size="13">
+      <rect x="64" y="312" width="122" height="28" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/>
+      <text x="78" y="331" fill="#4ADE80">✓ unit tests</text>
+      <rect x="196" y="312" width="168" height="28" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/>
+      <text x="210" y="331" fill="#4ADE80">✓ integration tests</text>
     </g>
 
     <!-- ============ RIGHT: live architecture ============ -->
