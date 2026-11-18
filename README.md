@@ -12,10 +12,9 @@
 
 <br/>
 
-<h3 align="center">I build the software businesses run on.</h3>
 <p align="center">
-  3+ years shipping production systems end-to-end — from the database to the last pixel.<br/>
-  Architecture-first, performance-obsessed, and always building for real users.
+  Full-stack engineer with 3+ years of building production systems across<br/>
+  FinTech, payments, LegalTech and AI — from the database to the UI.
 </p>
 
 <br/>
@@ -43,14 +42,7 @@ public sealed class AhmedSamir : SoftwareEngineer
 
 <br/>
 
-<h3 align="center">Shipping, every week.</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedsamir010&hide_border=true&background=0B1023&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=C4B5FD&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=1E293B&border_radius=18&card_width=820" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamir010&bg_color=0B1023&color=94A3B8&title_color=C4B5FD&line=8B5CF6&point=EDE9FE&area=true&area_color=7C3AED&hide_border=true&radius=18&custom_title=Contribution%20activity" width="100%"/>
-</p>
+<img src="./Images/contributions.svg" width="100%" alt="2,000+ contributions in the last 12 months"/>
 
 <br/>
 
