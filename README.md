@@ -27,11 +27,11 @@
 ```csharp
 public sealed class AhmedSamir : SoftwareEngineer
 {
-    public string[] Stack        => [".NET", "C#", "Angular", "TypeScript", "SQL Server"];
-    public string[] Architecture => ["Clean Architecture", "CQRS", "DDD", "Event-Driven"];
-    public string[] Domains      => ["FinTech", "Equity", "Governance", "LegalTech", "AI"];
-    public string   Focus        => "Scalable, secure systems that ship.";
-    public bool     OpenToWork   => true;
+    public string[] Stack   => [".NET", "Angular", "SQL Server", "AI"];
+    public string[] Builds  => ["FinTech", "Equity", "LegalTech"];
+    public string[] Style   => ["Clean Architecture", "CQRS", "DDD"];
+    public string   Mission => "Ship scalable, secure systems.";
+    public bool     OpenToWork => true;
 }
 ```
 
@@ -39,13 +39,6 @@ public sealed class AhmedSamir : SoftwareEngineer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,tailwind,sass,redis,azure,git,github,postman,visualstudio,vscode&perline=14&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamir010&show_icons=true&hide_border=true&hide_title=true&bg_color=0B1023&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&border_radius=18" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir010&layout=compact&hide_border=true&hide_title=true&bg_color=0B1023&text_color=CBD5E1&border_radius=18" height="150"/>
 </p>
 
 <br/>
