@@ -14,7 +14,7 @@
 
 <p align="center">
   Full-stack engineer with 3+ years of building production systems across<br/>
-  FinTech, payments, LegalTech and AI — from the database to the UI.
+  FinTech, payments, LegalTech 
 </p>
 
 <br/>
