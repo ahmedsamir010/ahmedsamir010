@@ -27,18 +27,29 @@
 ```csharp
 public sealed class AhmedSamir : SoftwareEngineer
 {
-    public string[] Stack   => [".NET", "Angular", "SQL Server", "AI"];
-    public string[] Builds  => ["FinTech", "Equity", "LegalTech"];
-    public string[] Style   => ["Clean Architecture", "CQRS", "DDD"];
-    public string   Mission => "Ship scalable, secure systems.";
-    public bool     OpenToWork => true;
+    public string[] Backend  => [".NET", "Node.js", "SQL Server"];
+    public string[] Frontend => ["Angular", "React", "React Native"];
+    public string[] Builds   => ["FinTech", "Payments", "LegalTech", "AI"];
+    public string[] Quality  => ["Unit Tests", "Integration Tests"];
+    public string   Learning => "System Design at scale";
 }
 ```
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,tailwind,sass,redis,azure,git,github,postman,visualstudio,vscode&perline=14&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,angular,react,ts,js,tailwind,redis,azure,git,github,postman,vscode&perline=14&theme=dark" />
+</p>
+
+<br/>
+
+<h3 align="center">Shipping, every week.</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedsamir010&hide_border=true&background=0B1023&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=C4B5FD&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=1E293B&border_radius=18&card_width=820" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamir010&bg_color=0B1023&color=94A3B8&title_color=C4B5FD&line=8B5CF6&point=EDE9FE&area=true&area_color=7C3AED&hide_border=true&radius=18&custom_title=Contribution%20activity" width="100%"/>
 </p>
 
 <br/>
